@@ -1,5 +1,7 @@
 # Learning ally.js
 
+Just one of the things I'm learning. https://github.com/hchiam
+
 **ally.js a11y helpers library to make a11y simpler:**
 
 - what is it + minimal example: https://allyjs.io/index.html
@@ -9,3 +11,7 @@
 - API: https://allyjs.io/api/index.html
 - tutorials: https://allyjs.io/tutorials/index.html
 - github: https://github.com/medialize/ally.js
+
+## Tutorial
+
+https://allyjs.io/tutorials/index.html
