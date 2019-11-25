@@ -19,3 +19,7 @@ Just one of the things I'm learning. <https://github.com/hchiam>
 ## My notes for Google's Udacity course
 
 <https://github.com/hchiam/web-accessibility-course-notes>
+
+## Tangent
+
+Accessible drag and drop: <https://github.com/schne324/dragon-drop>
