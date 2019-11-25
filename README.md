@@ -15,3 +15,7 @@ Just one of the things I'm learning. https://github.com/hchiam
 ## Tutorial
 
 https://allyjs.io/tutorials/index.html
+
+## My notes for Google's Udacity course
+
+https://github.com/hchiam/web-accessibility-course-notes
