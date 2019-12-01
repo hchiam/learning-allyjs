@@ -16,3 +16,16 @@ body {
   border-radius: 5px;
   border: 100% solid rgba(0, 0, 0, 2.5);
 }
+
+.blur {
+  pointer-events: none;
+  /* DON'T FORGET to ALSO set on focusable CHILDREN: 
+  tabindex="-1"
+  aria-hidden="true"
+  */
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
