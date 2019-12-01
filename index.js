@@ -31,3 +31,6 @@ function closeDialog() {
 
   dialog.hidden = true;
 }
+
+var buttonInsideBlurredDiv = document.getElementById('button-inside-blurred-div');
+ally.element.disabled(buttonInsideBlurredDiv, true);
